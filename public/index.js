@@ -5,5 +5,5 @@
     setInterval(()=> {
         count_field.innerHTML = count;
         count++;
-    }, 50)
+    }, 100)
 })();
