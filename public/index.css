@@ -1,0 +1,12 @@
+div.count {
+    overflow: hidden;
+}
+span#count {
+    background-color: #000;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 128px;
+    color: #fff;
+    margin: 19% auto;
+    display: table;
+}
